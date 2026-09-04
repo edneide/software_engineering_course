@@ -1,2 +1,3 @@
-# software_engineering_course
+# Software engineering principles in python - course
 Course offered by DataCamp
+
